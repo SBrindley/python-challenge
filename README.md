@@ -8,3 +8,8 @@ The average change per month which was $-
 Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
+
+The second part of the challenge was to find the following from election results:
+
+Total Votes: 369711
+Candidate Votes:
