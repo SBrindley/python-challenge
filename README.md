@@ -12,4 +12,7 @@ Greatest Decrease in Profits: Feb-14 ($-1825558)
 The second part of the challenge was to find the following from election results:
 
 Total Votes: 369711
-Candidate Votes:
+Charles Casper Stockham': 85212, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606}
+----------------------------
+
+The winner is Diana Degette with 272892 votes
